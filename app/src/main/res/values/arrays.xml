@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_type">
+        <item>Withdrawal Transaction</item>
+        <item>Deposit Transaction</item>
+        <item>None Transaction</item>
+    </string-array>
+    <string-array name="array_cat">
+        <item>Choose a Category</item>
+        <item>Accommodation</item>
+        <item>Entertainment</item>
+        <item>Food</item>
+        <item>Groceries</item>
+        <item>Household Item</item>
+        <item>Medicare</item>
+        <item>Others</item>
+        <item>Personal Care</item>
+        <item>Tax</item>
+        <item>Travel</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+</resources>
